@@ -1,4 +1,5 @@
 AI-Based Parametric Insurance for Gig Workers
+
 📌 Problem Statement
 
 Gig workers in India, especially delivery partners from platforms like Zomato, Swiggy, and Amazon, rely heavily on daily earnings.
